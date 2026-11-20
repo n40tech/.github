@@ -1,6 +1,6 @@
 # n40tech
 
-Small, calm apps built for real people: friends, classmates and training partners.
+Small, calm apps built for building good habits.
 
 | Project | What it is | Stack |
 |---|---|---|
